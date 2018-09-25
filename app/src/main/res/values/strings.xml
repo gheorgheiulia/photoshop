@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Photoshop Course</string>
+    <string name="tvTitle">Ultimate Photoshop Training: From Beginner to Pro</string>
+    <string name="about">Learn how to use the program with ease while having fun! My approach is simple: we focus on real world cases and I present the best techniques that require minimal effort yet produce maximum results. All my content is focused on getting the job done in the least amount of time possible. I\'ll be using the latest version of the program - Photoshop CC 2017, but all the content is explained for all users, no matter what version you have installed. What will you learn? Get the best Photoshop version Customize the program to best suit you Create new projects and share your work Master layers and the layers panel Move, select, and edit layers Work with the Pen Tool like a pro Create and modify shapes Design flat illustrations Create and animate emojis Remove skin issues and retouch portraits Design business cards Create app icons Design cute characters Manipulate and repair photos in creative ways … and so much more! Why is this course different? Progressive difficulty: we start slow and we build our way up Tons of activities, exercises, and challenges Cheatsheets you can review to refresh your memory Impeccable sound and video quality Quality instructor support: I respond to most questions in under 12 hours All lectures are straight to the point - minimal effort, maximum results Learn by working, not by memorizing! By the end of this course you will be able to use the program with ease. You\'ll feel in control as you pursue and complete more ambitious projects. Whether you are contemplating a career change, considering freelancing opportunities, or developing a personal hobby, get started today on your Photoshop journey! Who is the target audience? This course is perfect for beginner-level Photoshop users. If you’re an intermediate or advanced user, please check out my curriculum especially the practice activities and assignments to see if this course is a good fit for you. This course is not for students who want to learn about one particular topic in depth, for example, painting with brushes in Photoshop. Instead, this is a comprehensive course that gives you a solid foundation on all the major topics in Photoshop.</string>
+    <string name="settings">Settings</string>
+    <string name="me">Me</string>
+    <string name="learn">Learn</string>
+    <string name="register">Register</string>
+    <string name="go">Go to Course</string>
+    <string name="logout">Logout</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="aboutu">Udemy is a global marketplace for learning and teaching online where students are mastering new skills and achieving their goals by learning from an extensive library of over 80,000 courses taught by expert instructors.Udemy is a platform or marketplace for online learning. Unlike academic MOOC programs driven by traditional collegiate coursework, Udemy provides a platform for experts of any kind to create courses which can be offered to the public, either at no charge or for a tuition fee. Udemy provides tools which enable users to create a course, promote it and earn money from student tuition charges.</string>
+    <string name="about_udemy">About Udemy</string>
+    <string name="about_menu">About</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cursuri">
+        <item>curs1</item>
+        <item>curs2</item>
+        <item>curs3</item>
+        <item>curs4</item>
+        <item>curs5</item>
+        <item>curs6</item>
+        <item>curs7</item>
+        <item>curs8</item>
+        <item>curs9</item>
+
+    </string-array>
+</resources>
